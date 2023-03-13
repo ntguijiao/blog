@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: 欢迎来到文章中心
 ---
+
+<p>这里是首页</p>
 
